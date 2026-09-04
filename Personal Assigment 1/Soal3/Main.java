@@ -2,7 +2,7 @@ package Soal3;
 
 public class Main {
     public static void main(String[] args) {
-        // Alokasi memori array untuk menampung referensi objek [LN 01, hlm. 8]
+        // Alokasi memori array untuk menampung referensi objek 
         Mahasiswa[] daftar = new Mahasiswa[5];
 
         // Mengisi objek ke array
